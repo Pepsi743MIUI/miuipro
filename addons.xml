@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id>
+            <name>Recovery 3.0.2-3</name>
+            <description>Рекомендуемое рекавери</description>
+            <published-at>20170628</published-at>
+            <size>11751702</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/blob/master/3.0.2-3.zip</download-link>
+        </addon>         
+    </addons>
+     <addons>
+        <addon>
+            <id>2</id>
+            <name>Substratum</name>
+            <description>Theme manager</description>
+            <published-at>v730</published-at>
+            <size>10917194</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/2modAPP/SubstratumThemeManager.apk</download-link>
+        </addon>         
+    </addons>
+      <addons>
+        <addon>
+            <id>3</id>
+            <name>SuperSU</name>
+            <description>Root manager</description>
+            <published-at>lite_size</published-at>
+            <size>5446811</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/3modAPP/LITEsupersu.zip</download-link>
+        </addon>         
+    </addons>
+     <addons>
+        <addon>
+            <id>4</id>
+            <name>TWRP3.1.1.0</name>
+            <description>Custom recoveryk</description>
+            <published-at>2017-05-20</published-at>
+            <size>18982912</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/4modAPP/TWRP_3.1.1_kenzo_7.1.img</download-link>
+        </addon>         
+    </addons>
+</hash>
