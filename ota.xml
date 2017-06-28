@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>miuipro_v5.1.1_Kraft-A6010</RomName> <!-- Название прошивки -->
+  <VersionName>7.6.22</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20170627</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://onedrive.live.com/?cid=64e30f2e1452da28&id=64E30F2E1452DA28%21563&ref=button&Bsrc=Share&Bpub=SDX.SkyDrive&authkey=!At-U3erdX2SV0-8</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://onedrive.live.com/?cid=64e30f2e1452da28&id=64E30F2E1452DA28%21563&ref=button&Bsrc=Share&Bpub=SDX.SkyDrive&authkey=!At-U3erdX2SV0-8</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
+  <CheckMD5></CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">657752075</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
+  <Website nil="false" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
+  <DonateURL>https://dropbox.com</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
+  <Changelog>### Изменения версии MIUI 8 7.6.8
+* Встроенны твики
+* Включены обновления по воздуху</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
+</ROM>
