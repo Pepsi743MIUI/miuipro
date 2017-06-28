@@ -10,7 +10,7 @@
   <FileSize type="integer">655360000</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
   <Website nil="false" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
-  <DonateURL>https://dropbox.com</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
+  <DonateURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/Пожертвование</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
   <Changelog>### Изменения версии MIUI 8 7.6.8
 * Встроенны твики
 * Включены обновления по воздуху</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
