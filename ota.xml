@@ -8,7 +8,7 @@
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5></CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">655360000</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
-  <Developer>Pepsi7434</Developer> <!-- Ник, имя разработчика'ов -->
+  <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
   <Website nil="false" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
   <DonateURL>https://dropbox.com</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
   <Changelog>### Изменения версии MIUI 8 7.6.8
