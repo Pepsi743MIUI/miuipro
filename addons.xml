@@ -10,4 +10,74 @@
             <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/3.0.2-3.zip</download-link>
         </addon>         
     </addons> 
+     <addons>
+        <addon>
+            <id>2</id>
+            <name>Camera ZTE</name>
+            <description>Theme manager</description>
+            <published-at>20170528</published-at>
+            <size>3827302</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/CameraZte.apk</download-link>
+        </addon>         
+    </addons>
+      <addons>
+        <addon>
+            <id>3</id>
+            <name>SuperSU</name>
+            <description>Управление Root</description>
+            <published-at>2.82Pro</published-at>
+            <size>1447034</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/SuperSU.Pro-2.82.zip</download-link>
+        </addon>         
+    </addons>
+     <addons>
+        <addon>
+            <id>4</id>
+            <name>Dolby</name>
+            <description>Для классного звука</description>
+            <published-at>20170528</published-at>
+            <size>18982912</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/Dolby.zip</download-link>
+        </addon>
+      </addons>
+     <addons>
+        <addon>
+            <id>5</id>
+            <name>Дополнение к dolby</name>
+            <description>Улучшения для dolby</description>
+            <published-at>20170528</published-at>
+            <size>4246732</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/Bass.zip</download-link>
+        </addon>  
+    </addons>
+        <addons>
+          <addon>
+            <id>6</id>
+            <name>Удаление MI сервисов</name>
+            <description>Удалит MI сервисы</description>
+            <published-at>20170528</published-at>
+            <size>126976</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/Deleting%2BXiaomi.zip</download-link>
+        </addon>  
+    </addons> 
+         <addons>
+          <addon>
+            <id>7</id>
+            <name>Геоопределение номеров</name>
+            <description>Геоопределение номеров</description>
+            <published-at>20170528</published-at>
+            <size>2327838</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/geocoding_greatslon.zip</download-link>
+        </addon>  
+    </addons>
+    <addons>
+          <addon>
+            <id>8</id>
+            <name>Viper FX</name>
+            <description>Эквалайзер</description>
+            <published-at>20170528</published-at>
+            <size>2327838</size>
+            <download-link>https://github.com/PepsiMIUI/miuipro/raw/master/ViPER4Android-2.5.0.5-20161016.zip</download-link>
+        </addon>  
+    </addons>
 </hash>
