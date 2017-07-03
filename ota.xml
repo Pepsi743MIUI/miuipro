@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>miuipro_v5.1.1_Kraft-A6010</RomName> <!-- Название прошивки -->
-  <VersionName>7.6.29</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionName>7.6.29_v1</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170630</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://dl.dropbox.com/s/24ekmowxwg46xut/miuipro_v5.1.1_Kraft-A6010_7.6.29.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://dl.dropbox.com/s/24ekmowxwg46xut/miuipro_v5.1.1_Kraft-A6010_7.6.29.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://dl.dropbox.com/s/v0jlixomqoz5ots/miuipro_v5.1.1_Kraft-A6010.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://dl.dropbox.com/s/v0jlixomqoz5ots/miuipro_v5.1.1_Kraft-A6010.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5></CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">646436618</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <FileSize type="integer">673385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/lenovoa6010miui</WebsiteURL> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
   <DonateURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/Пожертвование</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
   <Changelog>### Изменения версии MIUI 8 7.6.29
-* Изменения на сайте не указаны!</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
+* Добавил хороший долби
+* Добавил SuperSu Pro 2.82
+* Уменьшение нагрева процессора и увиличение жизни от батареи
+* Добавил иконку операторов
+* Увеличил файл подкачки
+* Добавил дополнительные функции в камере
+* Исправил Запись с экрана</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
