@@ -3,17 +3,18 @@
   <RomName>miuipro_v5.1.1_Kraft-A6010</RomName> <!-- Название прошивки -->
   <VersionName>7.7.20</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170722</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://qc3.androidfilehost.com/dl/EaVmHUbSIWSy-0JYOfWbiA/1500868490/673368273298973188/miuipro_v5.1.1_Kraft-A6010_7.7.20.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://qc3.androidfilehost.com/dl/EaVmHUbSIWSy-0JYOfWbiA/1500868490/673368273298973188/miuipro_v5.1.1_Kraft-A6010_7.7.20.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://qc3.androidfilehost.com/dl/31Z9aL8FnhkUgRpnXG78Bg/1500872202/745425885120750295/miuipro_v5.1.1_Kraft-A6010_7.7.20.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://qc3.androidfilehost.com/dl/31Z9aL8FnhkUgRpnXG78Bg/1500872202/745425885120750295/miuipro_v5.1.1_Kraft-A6010_7.7.20.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>9495a87d199fac765299263df87e1d76</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">617385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <CheckMD5>866e097cf0cc1efb40660c9e14218b10</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">637385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/lenovoa6010miui</WebsiteURL> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
   <DonateURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/Пожертвование</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
-  <Changelog>### Изменения версии MIUI 8 7.6.13
-* Минимальная частота
+  <Changelog>### Изменения версии MIUI 8 7.6.20
+* Минимальная частота процессора 200
+* Говернор процессора alucard по стандарту
 </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
