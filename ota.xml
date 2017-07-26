@@ -11,8 +11,6 @@
   <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/addons.xml</AddonsURL>
-  <WebsiteURL>https://vk.com/lenovoa6010miui</WebsiteURL> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
-  <DonateURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/Пожертвование</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
   <Changelog>### Изменения версии MIUI 7.7.27
 * Добавлено:
      настройка времени до выбора SIM-карты (Настройки — SIM-карты и мобильные сети)
