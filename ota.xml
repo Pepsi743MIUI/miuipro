@@ -3,8 +3,8 @@
   <RomName>miuipro_v5.1.1_Kraft-A6010</RomName> <!-- Название прошивки -->
   <VersionName>7.8.3</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170802</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://qc3.androidfilehost.com/dl/CCJmDxEFYuESHlAwYzYp5A/1502001372/673368273298976261/miuipro_v5.1.1_Kraft-A6010_7.8.3.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://qc3.androidfilehost.com/dl/CCJmDxEFYuESHlAwYzYp5A/1502001372/673368273298976261/miuipro_v5.1.1_Kraft-A6010_7.8.3.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://de1.androidfilehost.com/dl/tOdfOQPviRgc2rhIPwjz0Q/1502002604/961840155545586459/miuipro_v5.1.1_Kraft-A6010_7.8.3.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://de1.androidfilehost.com/dl/tOdfOQPviRgc2rhIPwjz0Q/1502002604/961840155545586459/miuipro_v5.1.1_Kraft-A6010_7.8.3.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>9b1fccb777e0f3b13d76cc3ce169f611</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">672385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
