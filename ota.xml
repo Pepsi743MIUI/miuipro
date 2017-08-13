@@ -3,8 +3,8 @@
   <RomName>miuipro_v5.1.1_Kraft-A6010</RomName> <!-- Название прошивки -->
   <VersionName>7.8.7</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170811</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>http://edisk.ukr.net/get/465786787/minovo_Kraft-A6010_7.6.23_5.1.1.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>http://edisk.ukr.net/get/465786787/minovo_Kraft-A6010_7.6.23_5.1.1.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://de1.androidfilehost.com/dl/8cl7-yyVe_CJenxwulGBRg/1502843960/745425885120754500/miuipro_v5.1.1_kraft-A6010_7.8.7.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://de1.androidfilehost.com/dl/8cl7-yyVe_CJenxwulGBRg/1502843960/745425885120754500/miuipro_v5.1.1_kraft-A6010_7.8.7.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>81ff94baa67ac0c0abde04d1e08b8878</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">672385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
