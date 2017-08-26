@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>miuipro_v5.1.1_Kraft-A6010Pro</RomName> <!-- Название прошивки -->
-  <VersionName>7.8.17</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20170817</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://de1.androidfilehost.com/dl/XnV0od0aRj6hxuYmBU88Nw/1503307503/745425885120756345/miuipro_v5.1.1_Kraft-A6010Pro_7.8.17.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://de1.androidfilehost.com/dl/XnV0od0aRj6hxuYmBU88Nw/1503307503/745425885120756345/miuipro_v5.1.1_Kraft-A6010Pro_7.8.17.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <VersionName>7.8.24</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20170826</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://qc3.androidfilehost.com/dl/VbXDS7CTIcscIrMGc-lpGw/1504003190/673368273298981236/miuipro_v5.1.1_a6010Pro_7.8.24.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://qc3.androidfilehost.com/dl/VbXDS7CTIcscIrMGc-lpGw/1504003190/673368273298981236/miuipro_v5.1.1_a6010Pro_7.8.24.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>98594aaccb7df16a468a58116f8bb29d</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <CheckMD5>0414588e97956370118df56b0495e35c</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">772385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
