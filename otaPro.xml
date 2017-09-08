@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>miuipro_v5.1.1_Kraft-A6010Pro</RomName> <!-- Название прошивки -->
-  <VersionName>7.8.24</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20170826</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://qc3.androidfilehost.com/dl/AfDDyLdx2kslNxiJrK8Gqw/1504858040/673368273298981236/miuipro_v5.1.1_a6010Pro_7.8.24.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://qc3.androidfilehost.com/dl/AfDDyLdx2kslNxiJrK8Gqw/1504858040/673368273298981236/miuipro_v5.1.1_a6010Pro_7.8.24.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <VersionName>7.9.7</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20170908</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://qc0.uploads.androidfilehost.com/dl/e9Q22bg0swnlkpNbwIigeA/1505109494/889764386195928178/miuipro_v5.1.1_A6010Pro_7.9.7.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://qc0.uploads.androidfilehost.com/dl/e9Q22bg0swnlkpNbwIigeA/1505109494/889764386195928178/miuipro_v5.1.1_A6010Pro_7.9.7.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>0414588e97956370118df56b0495e35c</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">772385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <CheckMD5>859a9c7b4ecaac462abeed5054837afc</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">782385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Pepsi743</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/PepsiMIUI/miuipro/master/addons.xml</AddonsURL>
-  <Changelog>### Изменения версии MIUI 7.8.3
+  <Changelog>### Изменения версии MIUI 7.9.7
 
 </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
