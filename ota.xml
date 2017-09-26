@@ -2,9 +2,9 @@
 <ROM>
   <RomName>miuipro_v5.1.1_Kraft-A6010</RomName> <!-- Название прошивки -->
   <VersionName>7.9.7</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20170508</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://qc3.androidfilehost.com/dl/DZAieAv2iCcKVL-ubx0TLQ/1505110754/673368273298984175/miuipro_v5.1.1_A6010_7.9.7.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://qc3.androidfilehost.com/dl/DZAieAv2iCcKVL-ubx0TLQ/1505110754/673368273298984175/miuipro_v5.1.1_A6010_7.9.7.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <VersionNumber type="integer">20171008</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://doc-00-48-docs.googleusercontent.com/docs/securesc/a4l2ns9a2k6un1akd6cuabmfh1ors478/6vhd4b1cg8nokl9grkmevqse1q3pib2j/1506448800000/12906495942100023186/12906495942100023186/0BxgFBL9_IWzGT3FQejJLZEQ0eVU?e=download</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://doc-00-48-docs.googleusercontent.com/docs/securesc/a4l2ns9a2k6un1akd6cuabmfh1ors478/6vhd4b1cg8nokl9grkmevqse1q3pib2j/1506448800000/12906495942100023186/12906495942100023186/0BxgFBL9_IWzGT3FQejJLZEQ0eVU?e=download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>331a7f07326d6f81e59220a704f6224a</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">692385021</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
